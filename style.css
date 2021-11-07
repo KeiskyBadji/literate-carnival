@@ -1,0 +1,64 @@
+.name1 {
+ background-color: black;
+ color: rgb(255, 255, 255);
+ text-align: center;
+ width: 707px;
+ height: 70px;
+ position: absolute;
+ left: 33%;
+}
+.text {
+    height: 400px;
+    width: 300px;
+    background-color: yellow;
+    position: absolute;
+    left: 33%;
+    top: 8%;
+}
+.big {
+    background-color: seagreen;
+    height: 400px;
+    width: 500px;
+    position: absolute;
+    top: 8%;
+    left: 44%;
+}
+img {
+    margin: 5px;
+    width: 350px;
+    height: 210px;
+    position: absolute;
+    left: 10%;
+}
+h2 {
+    position: absolute;
+    top: 50%;
+    left: 39%;
+}
+.black {
+    background-color: black;
+}
+.mini {
+    margin: 20px;
+    width: 70px;
+    height: 70px;
+    float:left;
+    display: block;
+    margin-top: 60%;
+}
+.grey {
+    background-color: grey;}
+
+    .red {
+        background-color: red;
+    }
+    .name1_niz {
+        background-color: black;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        width: 707px;
+        height: 70px;
+        position: absolute;
+        top: 50%;
+        left: 33%;
+    }
